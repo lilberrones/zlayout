@@ -1,0 +1,147 @@
+body {
+    background-color: #f0eff4;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+.fullborder {
+    border: black solid thin;
+}
+
+#wrapper {
+    width: 960px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#page2 #logo {
+    width: 100px;
+    float: left;
+    height: 100px;
+}
+
+#page2 #header {
+    float: right;
+    text-align: center;
+    width: 856px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page2 #header a {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#page2 #banner {
+    height: 500px;
+}
+
+#page2 #hero {
+    float: left;
+    height: 399px;
+    width: 300px;
+    overflow: hidden;
+}
+
+#page2 h1{
+    font-size: medium;
+    text-align: center;
+}
+
+#page2 #footer {
+    height: 300px;
+}
+
+#page2 #footer a {
+    float: right;
+    text-align: center;
+    width: 856px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#page3 #logo {
+    width: 100px;
+    float: left;
+    height: 100px;
+}
+
+#page3 #header {
+    float: right;
+    text-align: center;
+    width: 856px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page3 #header a {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#page3 #banner {
+    text-align: center;
+    height: 200px;
+}
+
+#page3 #img1 {
+    float:left;
+    height:100px;
+    width:100px;
+}
+
+#page3 #text1 {
+    width: 854px;
+    height: 100px;
+    float: right;
+}
+
+#page3 #img2 {
+    float:left;
+    height:100px;
+    width:100px;
+}
+
+#page3 #text2 {
+    width: 854px;
+    height: 100px;
+    float: right;
+}
+
+#page3 #img3 {
+    float:left;
+    height:100px;
+    width:100px;
+}
+
+#page3 #text3 {
+    width: 854px;
+    height: 100px;
+    float: right;
+}
+
+#page3 #img4 {
+    float:left;
+    height:100px;
+    width:100px;
+}
+
+#page3 #text4 {
+    width: 854px;
+    height: 100px;
+    float: right;
+}
